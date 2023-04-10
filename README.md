@@ -4,3 +4,7 @@
 --------------------------------------
 
 <img src="https://user-images.githubusercontent.com/129017064/230839530-dcf7e51f-a718-4d86-8e2b-d5620488e748.png" width="300">
+
+### 잠그기
+crtl + 2 -->  잠그기 (잠글 개체를 선택하고)
+crtl + alt + 2 --> 풀기(한꺼번에 풀림)
