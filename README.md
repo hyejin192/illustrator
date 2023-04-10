@@ -19,4 +19,5 @@ crtl + alt + 2 --> 풀기(한꺼번에 풀림)
 
 - 개체 선택 후 shift + 개체 다시 선택 --> 선택 풀림
 
+### 💦pathfinder
 ![image](https://user-images.githubusercontent.com/129017064/230851029-b675059a-6c5b-4eee-954e-992614868617.png)
